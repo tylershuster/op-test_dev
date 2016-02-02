@@ -20,12 +20,11 @@
  * }
  */
 module.exports = {
-	name: 'you_should_probably_change_this',
-	prettyName: 'You should probably change this...',
-
-	description: 'The 2015 theme for {Example.com}. Built by John & Jane Doe for {Example}',
+	name: 'op-test',
+	prettyName: 'Op-Test',
+	description: 'The 2016 theme for Op-Test.com',
 	version: '0.1.0',
-	author: 'John & Jane Doe <jd@example.com>',
-	authorURI: 'http://example.com',
+	author: 'Tyler Shuster<tyler@shuster.house>',
+	authorURI: 'http://tyler.shuster.house',
 	license: 'GPLv2 or later'
 };
